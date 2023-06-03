@@ -1,6 +1,7 @@
 # HR-Dashboard-Project
-![image](https://github.com/nickmasi/HR-Dashboard-Project/assets/135459961/b21eef81-d942-4835-9d17-c0f5b985dd2d)
-![image](https://github.com/nickmasi/HR-Dashboard-Project/assets/135459961/81e7bece-fe85-4aa5-89fc-dfef83790c3e)
+![image](https://github.com/nickmasi/HR-Dashboard-Project/assets/135459961/db95e56e-f0dd-4119-bab7-c9d59204e2ed)
+![image](https://github.com/nickmasi/HR-Dashboard-Project/assets/135459961/72e476f6-75ec-49e5-8a35-f303c46ce736)
+
 
 Data Used
 
